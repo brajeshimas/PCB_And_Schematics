@@ -3,6 +3,8 @@
 Welcome to my showcase of schematic diagrams and PCB layout designs created using **KiCad**.  
 This repository is dedicated to demonstrating my **hands-on PCB design skills** and attention to detail in circuit development.
 
+This all sample just created by myself, I can't show any company's property which is designed by me
+
 ---
 
 ## 🛠️ Tools Used
@@ -16,13 +18,9 @@ This repository is dedicated to demonstrating my **hands-on PCB design skills** 
 
 ## 📸 Sample Designs
 
-| Schematic Design | PCB Layout | 3D View (Optional) |
-|------------------|-------------|---------------------|
-| ![](images/schematic1.png) | ![](images/pcb1.png) | ![](images/3d1.png) |
-| ![](images/schematic2.png) | ![](images/pcb2.png) | ![](images/3d2.png) |
-| ![](images/schematic3.png) | ![](images/pcb3.png) | ![](images/3d3.png) |
-
-📝 *Replace image names above with actual filenames after upload (e.g., `images/tea_controller_schematic.png`).*
+| PCB Layout | 3D View (Optional) |
+|-------------|---------------------|
+| ![](Images/Layout_Wifi.png) | ![](Images/Wifi_3d_Back.png) |
 
 ---
 
